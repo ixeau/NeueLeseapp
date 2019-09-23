@@ -16,5 +16,5 @@ Demonstration of some ideas for a possible reading app as part of my master’s 
 ## High activity detection
 ![Dynamic Scroller](https://github.com/ixeau/NeueLeseapp/blob/master/demo-high-activity.gif)
 
-## Text visualization based on iOS settings
+## Text appearance based on iOS preferences
 ![Dynamic Scroller](https://github.com/ixeau/NeueLeseapp/blob/master/demo-dynamic-text.gif)

@@ -1,0 +1,146 @@
+* {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+
+html {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transition: all 0.3s ease;
+}
+
+body {
+    line-height: 150%;
+    word-spacing: 0em;
+    -webkit-hyphens: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+main {
+    max-width: 400px;
+    padding: 1.5em 1em 1em 1.5em;
+    border-radius: 0.25em;
+}
+
+
+
+h1 {
+    font-size: 1.4em;
+    font-weight: 700;
+    line-height: 115%;
+    font-feature-settings: "ss07";
+    letter-spacing: 0.02rem;
+    padding-top: 3em;
+}
+
+h2 {
+    font-size: 1.3em;
+    line-height: 120%;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+.author {
+    font-size: 0.7em;
+    font-weight: 700;
+    letter-spacing: 0.014rem;
+    text-transform: uppercase;
+    padding-top: 3em;
+    padding-bottom: 8em;
+}
+
+p {
+    font-feature-settings: "ss01";
+}
+
+section {
+    padding-top: 2em;
+}
+
+.chapter-name-explainer {
+    font-size: 0.7em;
+    line-height: 130%;
+    font-weight: 500;
+    padding-top: 1em;
+}
+
+blockquote {
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 0;
+    font-weight: 600;
+}
+
+cite {
+    display: block;
+    font-size: 0.7em;
+
+    font-weight: 500;
+    font-style: normal;
+}
+
+a.quote {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+    font-size: 1.2em;
+    font-weight: 500;
+    border-radius: 0.15em;
+    padding-top: 0.05em;
+    padding-left: 0.3em;
+    padding-right: 0.28em;
+    margin-left: 0.1em;
+    height: 0.8em;
+}
+
+ul, ol {
+    padding: 0;
+    margin: 0;
+    list-style-type: square;
+}
+
+li {
+    padding-bottom: 1em;
+    margin-left: 1em;
+}
+
+figure {
+    padding: 0;
+    margin: 0;
+    padding-top: 1em;
+    margin-left: -1.5em;
+    margin-right: -1em;
+}
+
+figcaption {
+    display: block;
+    font-size: 0.7em;
+    
+    padding-top: 1em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 4em;
+    line-height: 140%;
+    
+    font-weight: 500;
+    font-style: normal;
+}
+
+img {
+    max-width: 100%;
+}
+

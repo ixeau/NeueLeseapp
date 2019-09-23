@@ -10,11 +10,11 @@ Demonstration of some ideas for a possible reading app.
 * If the screens brightness is set to 100% it will trigger a special high-contrast mode for a better reading experience. 
 * The app does respect all settings you may have made in the iOS settings like text size or bold text.
 
-# Left- and right handed detection
+## Left- and right handed detection
 ![Dynamic Scroller](https://github.com/ixeau/NeueLeseapp/blob/master/demo-dynamic-scroller.gif)
 
-# High activity detection
+## High activity detection
 ![Dynamic Scroller](https://github.com/ixeau/NeueLeseapp/blob/master/demo-high-activity.gif)
 
-# Text visualization based on iOS settings
+## Text visualization based on iOS settings
 ![Dynamic Scroller](https://github.com/ixeau/NeueLeseapp/blob/master/demo-dynamic-text.gif)

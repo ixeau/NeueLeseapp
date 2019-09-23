@@ -1,5 +1,5 @@
 # Neue Leseapp
-Demonstration of some ideas for a possible reading app.
+Demonstration of some ideas for a possible reading app as part of my master’s thesis (https://martinlexow.de/blog/die-neue-softwaregestaltung).
 
 * The app uses simple html files for the content it displays. 
 * Superscript numbers will display footnotes in a special way. 

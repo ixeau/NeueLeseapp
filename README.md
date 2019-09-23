@@ -9,3 +9,5 @@ Demonstration of some ideas for a possible reading app.
 * Text will be displayed larger if the app detects heavy movement. 
 * If the screens brightness is set to 100% it will trigger a special high-contrast mode for a better reading experience. 
 * The app does respect all settings you may have made in the iOS settings like text size or bold text.
+
+![Dynamic Scroller](https://github.com/ixeau/NeueLeseapp/blob/master/demo-dynamic-scroller.gif)
